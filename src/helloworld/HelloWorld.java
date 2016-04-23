@@ -15,8 +15,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("changement de programme");
-        System.out.println("changement de programme");
+        System.out.println("Branche test");
     }
     
 }
