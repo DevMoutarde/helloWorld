@@ -16,7 +16,9 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
 
-        System.out.println("message");
+
+        System.out.println("gab");
+        System.out.println("neotenny");
         
         
     }
